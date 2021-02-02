@@ -1,0 +1,7 @@
+# Project Files
+*.uvguix
+*.uvguix.*
+
+Flash/
+Listings/
+Objects/
